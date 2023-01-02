@@ -1,0 +1,12 @@
+// for: este es un tipo de bucle que tiene una estrutua similar a If, pero un poco más compleja, se
+indentifica con la palabra for seguida de parentesis, luego abrir y cerrar llaves, aplicamos una variable
+sobre la cual se repetira el bucle, seguido de las condiciones que se tendran que
+cumplir para que for se ejecute, este bucle continuara sucediendo hasta que la declaracion sea falsa.
+
+//&&: Este es el operador "and" este sirve para evaluar dos expresiones y devolver verdadero si ambas son true
+si uno de ellos o ambos es falso el operador devolvera false.
+
+// ||: Este operador es "or" determina si una de las condiciones es verdadera, si una o ambas es true,
+devolvera true. False si ambas expresiones son false.
+
+// !: Este operador es "not" devolvera el valor booleano opuesto de lo que se ingresa.
