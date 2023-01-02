@@ -1,0 +1,20 @@
+// variable: es una forma de guardar lo que vale algo para poder usarlo más adelante y la forma de 
+identificarlo es usando la palabra var con un espacio despues y le ponemos nombre a la variable 
+para que nos ayude a identificarla o podemos asignarle un valor a algo usando el signo igual.
+
+// String: es todo bloque de texto o numero que ingresamos entre comillas '', "".
+
+// Funciones son tipos de objetos que invocables. 
+ 
+        Argumentos: Es la variable que agregamos entre parentesis para que cuando llamenmos la función
+        se pueda usar esta variable.
+
+        Return: Termina la ejecución de una función y especifica un valor paraa ser devuelto a quien invoque
+        esta función.
+
+//Declaracion If: Ejecuta una sentencia si una condición especificada es evaluada como verdadera, Si la
+ resulta como falsa otra sentencia puede ser ejecutada.
+
+//Valores Booleanos (true, false) basicamente significa que tienes dos opciones, en este caso nos va a dar
+como respuesta al ser ejecutado Verdadero o Falso.         
+
