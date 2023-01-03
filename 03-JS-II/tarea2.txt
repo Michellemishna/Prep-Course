@@ -1,0 +1,16 @@
+// arrays: son como su nombre lo dice son "arreglos" que utilizamos como matrices de almacenamiento para 
+un conjunto de datos, esta se arma usando una variable "const", el nombre que le queremos asignar a esta 
+matriz y abrimos []. dentro de los [] agregamos tantas cadenas de números o booleanos cómo querramos, 
+separando cada uno por una coma yy podemos acceder a ellos cada vez que lo necesitemos. 
+
+usamos .length para saber el numero de cadenas que tenemos en la matriz, recordando que en JavaScript comienza
+el conteo del 0, es decir, asigna el 0 a la primera cadena y de ahi continua contando. Para acceder a un 
+elemento de la matriz invocamos el nombre de la matriz y entre [] ponemos el numero asignado al indice
+que queremos usar.
+
+Para asignar o cambiar cualquier indice usamos: .push y .pop para agregar o eliminar el ultimo indice de la
+matriz. Y usamos Unshift y shift para agregar o eliminar el primer indice asignado en la matriz.
+
+Tambien podemos usar el bucle for en estos arreglos. En su mayoria de veces For se usa para enlistar todo lo 
+que hay en la matriz, este arroja los indices a manera de lista para usarlo traemos .length para indicar donde
+debe detener la ejecución del ciclo.
