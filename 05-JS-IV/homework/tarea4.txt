@@ -1,0 +1,18 @@
+// Objetos: Los objetos son contenedores de datos, contienen información de una sola cosa y puedes
+identificarlos porque estos se encuentran entre {}.
+
+// Propiedades: los objetos usan un concepto clave: valor, la clave es el identificador y el valor es lo que
+queremos guardar en esa clave, las propiedades. Estos se pueden agregar usando puntos o corchetes y podemos
+asignarle nuevos valores usando puntos de notación o {}.
+
+//Métodos: Son las funciones que guardamos dentro de los objetos. 
+
+// Bucle for ... in: su estructura es; una variable, la palabra clave in y el nombre del objeto, esto trae 
+todas las claves del objeto y finaliza cuando extrae todas las claves, tambien se puede usar para conocer la
+posición en la que se encuentra una clave o extraer el valor asociado con esa clave.
+
+//Notación de puntos vs notación de corchetes: ambos son métodos que nos permiten obtener el mismo
+resultado de distinta forma; La notación de puntos es la que usamos de manera similar a 
+.length, .shift, .pop. agregando estos metodos que nos permiten obtener el objeto. Y la notación de 
+corchetes en ves de usar un método, usamos [] para ingresar el objeto.
+
