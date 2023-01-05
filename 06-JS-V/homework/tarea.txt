@@ -1,0 +1,7 @@
+// Prototype: Es el método que usan las clases de manera simple una sola vez para dar acceso a los objetos 
+contenidos en la clase.
+
+// _Constructors_(de clases) Es la estructura que contiene el detalle de la clase, las propiedades generales 
+de los objetos, usando la palabra clave this que nos ayuda a traer las caracteristicas de la clase seguido de
+punto y las proiedades asignandoles un valor o propiedad.
+
