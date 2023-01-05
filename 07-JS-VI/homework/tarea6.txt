@@ -1,0 +1,7 @@
+// Funciones Callback: Son funciones dentro de otra fución que nos sirven para simplifacar
+la obtencion de un objeto sin necesidad de repetir una y otra vez una función. 
+
+.forEach despues de que le indicamos una función, este la aplica a cada elemento de un array.
+.reduce como su nombre lo indica, reduce en un numero el total de elementos de una matriz, o el indice que le 
+indicamos en la función.
+.map al igual que reduce se le indica una función y esta retorna un unico argumento que sera usado en toda la matriz
