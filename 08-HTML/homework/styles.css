@@ -1,0 +1,16 @@
+
+    h1 
+    { color: blue; }
+    img {
+        font-size: 400px;  }  
+    thirdDiv 
+    {   height: 600px;
+        width: 500px;
+
+        background-color: azure;
+        
+        padding: 50px;
+        border: 10px blueviolet dashed; 
+
+     }       
+    spanId { font-size: 18px;}
